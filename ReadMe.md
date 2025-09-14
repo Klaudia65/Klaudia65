@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I’m currently a 1st year CS master student<br>🧠I like solving problems<br>🦾I hope to work in Data Science and AI<br>🌱 I'm curious about real life application domain like medicine and environment<br>
+💼 I’m currently a 1st year CS master student<br>🧠I like solving problems<br>🦾I hope to work in ML/AI<br>🌱 I'm curious about real life application domain like medicine and environment<br>
 
 
 # 💻 Tech Stack:
