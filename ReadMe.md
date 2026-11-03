@@ -1,5 +1,5 @@
 # About Me:
-💼 I’m currently a 2nd year CS master student<br>I like solving problems<br>🌱 I'm curious about real life application domain like medicine, environment and HCI.<br>
+💼 I’m currently a 2nd year CS master student, I like solving problems<br>🌱 I'm curious about real life application domain like medicine, environment and HCI.<br>
 
 
 # 💻 Tech Stack:
